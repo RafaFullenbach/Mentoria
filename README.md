@@ -3,7 +3,7 @@
 The purpose of this project was to learn basic HTML and CSS.
 
 
-![App Screenshot](./assets/mentorship.png)
+![App Screenshot](./assets/mentorship.PNG)
 
 
 ## Apprenticeship
